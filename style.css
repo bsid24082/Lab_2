@@ -15,6 +15,10 @@
     justify-content: center;
 }
 
+audio{
+    align-items: right;
+    justify-content: right;
+}
 .header{
     width: 100%;
     margin: 2% auto;
@@ -130,6 +134,11 @@ p{
     padding: 10px;
     display: flex;
     justify-content: center;
+}
+.audio{
+    float: right;
+    margin-top: 265px;
+    margin-right: 20px;
 }
 
 img{
